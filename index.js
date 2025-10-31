@@ -51,6 +51,7 @@ async function fetchsticker() {
     
 }
 
-fetchsticker
+fetchsticker()
+
 
 
